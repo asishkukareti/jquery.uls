@@ -166,6 +166,7 @@ languages:
   gan-hans: [Hans, [AS], 赣语（简体）]
   gan-hant: [gan]
   gan: [Hant, [AS], 贛語]
+  gbm: [Deva, [AS], गढ़वळी]
   gbz: [Latn, [AS], Dari-e Mazdeyasnā]
   gcf: [Latn, [AM], Guadeloupean Creole French]
   gd: [Latn, [EU], Gàidhlig]
